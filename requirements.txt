@@ -24,5 +24,11 @@ sentence-transformers
 thinc
 shap
 bertopic
+ollama
+langchain
+langchain-ollama
+langchain-community
+langchain-core
+pydantic<2
 git+https://github.com/Text-Analytics-and-Retrieval/GuidedLDA.git#egg=GuidedLDA
 git+https://github.com/trinker/sentimentpy
