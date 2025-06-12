@@ -30,5 +30,6 @@ langchain-ollama
 langchain-community
 langchain-core
 pydantic<2
+ipykernel
 git+https://github.com/Text-Analytics-and-Retrieval/GuidedLDA.git#egg=GuidedLDA
 git+https://github.com/trinker/sentimentpy
